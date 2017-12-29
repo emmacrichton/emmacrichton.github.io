@@ -1,0 +1,21 @@
+h1 {
+	color: #123456;
+}
+
+body {
+  background: url("http://themotivatedjobsearch.com/wp-content/themes/bliss/assets/img/bg.jpg");
+  background-size: cover;
+  font-family: Helvetica;
+  text-align: center;
+}
+
+#slogan {
+	font-style: italic; 
+}
+
+#skills {
+	font-weight: bold;
+}
+
+
+
