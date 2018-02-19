@@ -1,21 +1,44 @@
+
+@import url('https://fonts.googleapis.com/css?family=Bellefair|Oswald;')
+
+
 h1 {
-	color: #123456;
+	font-weight: bold;
+	font-family: 'Oswald', sans-serif;
+	text-align: center;
 }
 
 body {
-  background: url("http://themotivatedjobsearch.com/wp-content/themes/bliss/assets/img/bg.jpg");
-  background-size: cover;
-  font-family: Helvetica;
+  background-color: #D0E7FF;
   text-align: center;
+}
+
+p {
+  font-family: 'Bellefair', serif;
+}
+
+li {
+	font-weight: normal;
+	font-family: 'Bellefair', serif;
+}
+
+
+
+  #bg {
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 #slogan {
 	font-style: italic; 
+	font-family: 'Bellefair', serif;
 }
 
 #skills {
-	font-weight: bold;
+	font-family: 'Oswald', sans-serif;
+	font-weight: bold; 
+	text-align: center;
 }
-
 
 
